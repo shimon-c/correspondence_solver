@@ -7,7 +7,7 @@
 import numpy as np
 import math
 
-# generate examples
+# generate examples for test
 def gen_targets(S = [[1,1,1],[2,1,1], [1,2,1]], ang=10,dist=5):
     """
     Computes the transformation and returns it
