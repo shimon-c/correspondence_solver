@@ -2,6 +2,7 @@
 # Solver for linear equation tranformation for points set registration, after the corresponds stage
 # Can be used for RANSAC after and counting the number of successes
 ##################################################################
+
 import numpy as np
 import math
 
